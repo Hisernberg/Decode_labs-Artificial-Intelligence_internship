@@ -1,5 +1,5 @@
 #  Rule-Based AI Chatbot — DecodeLabs Project 1
-[code](https://www.kaggle.com/code/nabidnur/notebook11c38fbcd7)
+[Code-of-Week-1](https://www.kaggle.com/code/nabidnur/notebook11c38fbcd7)
 
 > **AI Industrial Training Kit · Batch 2026 · Week 1**
 > Internship track: Artificial Intelligence Engineer @ DecodeLabs
