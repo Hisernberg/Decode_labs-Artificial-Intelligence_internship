@@ -1,4 +1,4 @@
-# 🤖 Rule-Based AI Chatbot — DecodeLabs Project 1
+#  Rule-Based AI Chatbot — DecodeLabs Project 1
 
 > **AI Industrial Training Kit · Batch 2026 · Week 1**
 > Internship track: Artificial Intelligence Engineer @ DecodeLabs
@@ -17,7 +17,7 @@ built on top of.
 
 ---
 
-## 🎯 What it does
+##  What it does
 
 `DecodeBot` reads what you type, normalizes it, matches it against a set of
 intents stored in a dictionary, and replies. If it doesn't recognise the
@@ -25,21 +25,21 @@ input, it gives a safe fallback instead of guessing.
 
 ```
 You: HELLO
-DecodeBot: Hey there! 👋 I'm DecodeBot, a rule-based assistant...
+DecodeBot: Hey there!  I'm DecodeBot, a rule-based assistant...
 
 You: what is your name?
 DecodeBot: I'm DecodeBot — a deterministic, rule-based AI...
 
 You: asdfghjkl
-DecodeBot: I do not understand that yet. 🤔 Type 'help' to see what I can handle.
+DecodeBot: I do not understand that yet.  Type 'help' to see what I can handle.
 
 You: bye
-DecodeBot: Goodbye! 👋 Thanks for chatting with DecodeBot.
+DecodeBot: Goodbye!  Thanks for chatting with DecodeBot.
 ```
 
 ---
 
-## ✅ Spec checklist
+##  Spec checklist
 
 The brief required five things. All are implemented:
 
@@ -53,7 +53,7 @@ The brief required five things. All are implemented:
 
 ---
 
-## 🧠 Architecture — the IPO model
+##  Architecture — the IPO model
 
 ```
    INPUT                 PROCESS                  OUTPUT
@@ -77,7 +77,7 @@ idea later evolves into *semantic vector matching* in more advanced projects.
 
 ---
 
-## 📂 Project structure
+##  Project structure
 
 ```
 .
@@ -90,7 +90,7 @@ No external libraries — pure Python standard library.
 
 ---
 
-## ▶️ How to run
+##  How to run
 
 ### Locally
 
@@ -107,13 +107,13 @@ Then type messages. Say `bye`, `exit`, or `quit` to leave.
    even in a committed run (where there's no keyboard for `input()`).
 3. To chat live, open the notebook in the editor and uncomment `run_chat()`.
 
-> ℹ️ **Note on Kaggle & `input()`** — committed/batch runs have no stdin, so
+>  **Note on Kaggle & `input()`** — committed/batch runs have no stdin, so
 > the script auto-detects this and falls back to a scripted demo conversation.
 > This keeps the notebook reproducible.
 
 ---
 
-## 🔍 The intents
+##  The intents
 
 | Intent | Example triggers |
 |---|---|
@@ -130,7 +130,7 @@ Plus a global **exit** handler and a **fallback** for anything unrecognised.
 
 ---
 
-## 🚀 Ideas for going further
+##  Ideas for going further
 
 Suggested in the brief's conclusion, easy to add to this skeleton:
 
@@ -156,6 +156,6 @@ Suggested in the brief's conclusion, easy to add to this skeleton:
 
 ## 👤 Author
 
-**\<Your Name\>** — AI Intern @ DecodeLabs (Batch 2026)
+**\<Nabidnur Abrar\>** — AI Intern @ DecodeLabs (Batch 2026)
 
 *Built as the Week-1 milestone of the DecodeLabs AI Industrial Training Kit.*
