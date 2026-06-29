@@ -83,6 +83,7 @@ boundary itself. Algorithm: **K-Nearest Neighbors (KNN)**.
 150 samples · 3 balanced classes (setosa, versicolor, virginica) · 4 features
 (sepal & petal length/width). Built into scikit-learn, so **no download
 needed**.
+![Plot](Week2/download.png)
 
 ### Pipeline (IPO framework)
 | Stage | Steps |
