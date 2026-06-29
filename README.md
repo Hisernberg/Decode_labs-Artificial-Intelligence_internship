@@ -82,9 +82,6 @@ boundary itself. Algorithm: **K-Nearest Neighbors (KNN)**.
 ### The dataset — Iris benchmark
 150 samples · 3 balanced classes (setosa, versicolor, virginica) · 4 features
 (sepal & petal length/width). 
-
-![Plot](Week2/download(2).png)
-
 Built into scikit-learn, so **no download
 needed**.
 ![Plot](Week2/download.png)
