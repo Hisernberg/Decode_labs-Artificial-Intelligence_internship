@@ -34,7 +34,7 @@ machines that learn patterns from data, and beyond.
 ---
 
 #  Week 1 — Rule-Based AI Chatbot 
-[Code-of-Week-1](https://www.kaggle.com/code/nabidnur/notebook11c38fbcd7)
+[Code-of-Week-1]([https://www.kaggle.com/code/nabidnur/notebook11c38fbcd7](https://www.kaggle.com/code/nabidnur/week1))
 
 A deterministic, **white-box** chatbot built purely from control flow and a
 dictionary knowledge base. No machine learning, **no hallucination** — every
@@ -73,6 +73,7 @@ DecodeBot: Goodbye! 👋
 ---
 
 #  Week 2 — Data Classification Using AI 
+[Code-of-Week-2]([Code-of-Week-1](https://www.kaggle.com/code/nabidnur/notebook11c38fbcd7))
 
 The **predictive phase**. Instead of writing rules, we feed the machine
 labelled history (the **Iris** dataset) and let it *derive* the decision
