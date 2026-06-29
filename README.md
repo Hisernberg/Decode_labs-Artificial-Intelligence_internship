@@ -73,7 +73,7 @@ DecodeBot: Goodbye! 👋
 ---
 
 #  Week 2 — Data Classification Using AI 
-[Code-of-Week-2]([https://www.kaggle.com/code/nabidnur/notebook11c38fbcd7](https://www.kaggle.com/code/nabidnur/week2))
+[Code-of-Week-2](https://www.kaggle.com/code/nabidnur/week2))
 
 The **predictive phase**. Instead of writing rules, we feed the machine
 labelled history (the **Iris** dataset) and let it *derive* the decision
