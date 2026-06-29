@@ -74,9 +74,6 @@ DecodeBot: Goodbye! 👋
 
 #  Week 2 — Data Classification Using AI 
 
-![Confusion Matrix](Week2/confusion_matrix.png)
-![Elbow Plot](Week2/elbow_plot.png)
-
 The **predictive phase**. Instead of writing rules, we feed the machine
 labelled history (the **Iris** dataset) and let it *derive* the decision
 boundary itself. Algorithm: **K-Nearest Neighbors (KNN)**.
@@ -109,6 +106,8 @@ needed**.
 With a fixed seed (`random_state=42`): KNN with K=5 scores ~0.93 accuracy /
 0.93 macro-F1, and the elbow-tuned K (~7) reaches ~0.97. See
 `sample_outputs/` for the confusion matrix and elbow plot.
+![Confusion Matrix](Week2/confusion_matrix.png)
+![Elbow Plot](Week2/elbow_plot.png)
 
 ### Run it
 ```bash
