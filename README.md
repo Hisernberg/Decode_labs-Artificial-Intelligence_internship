@@ -72,7 +72,10 @@ DecodeBot: Goodbye! 👋
 
 ---
 
-# 📅 Week 2 — Data Classification Using AI 🌸
+#  Week 2 — Data Classification Using AI 
+
+![Confusion Matrix](Week2/confusion_matrix.png)
+![Elbow Plot](Week2/elbow_plot.png)
 
 The **predictive phase**. Instead of writing rules, we feed the machine
 labelled history (the **Iris** dataset) and let it *derive* the decision
